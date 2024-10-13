@@ -2,4 +2,4 @@
 - 👀 I’m interested in Nodejs/Javascript/Typescript
 - 🌱 I’m currently learning Nodejs/Javascript/Typescript
 - 💞️ I’m looking to collaborate on Nodejs/Javascript/Typescript
-- 📫 How to reach me mikemartinezmestre@gmail.com
+- 📫 How to reach me mikemartinezmestre@gmail.com or [linkedin](https://www.linkedin.com/in/miguelmartinezmestre/)
